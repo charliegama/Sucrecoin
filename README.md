@@ -1,7 +1,9 @@
 UPDATE 1/07/2019
 Fix dificulted. 
-Instalacion de DarkGravity 
-Preparacion para implementacion de Assets
+Instalation DarkGravity 
+Fork Source 
+update the block calculation
+Preparation for implementation of Supernodes
 
 
 UPDATE 23/6/2019
